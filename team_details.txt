@@ -1,0 +1,9 @@
+instructions: Upload images. 
+and include the details - name , hobby and a sentence about yourself.
+
+
+<div class="team-player">
+                            <img src="" alt="Thumbnail Image" class="img-circle img-responsive">
+                            <h5>Chet Faker <br /><small class="text-muted">hobby</small></h5>
+                            <p>Some details about yourself</p>
+                        </div>
