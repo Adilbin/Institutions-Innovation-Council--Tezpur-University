@@ -1,0 +1,11 @@
+.container {
+
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+}
+.card {
+margin: 8px};
